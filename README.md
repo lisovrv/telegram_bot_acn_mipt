@@ -1,9 +1,11 @@
-## Foxbot
-
-Telegram bot @kino_fox_001bot powered by aiogram!
-
+## Strart session
 
 To start a bot session, you have to get BOT_TOKEN for your telegram_bot and API_KEY from The Movie Database (TMDb).
+
+
+### Foxbot
+
+Telegram bot @kino_fox_001bot powered by aiogram!
 
 ### Observation
 Uses The Movie Database (TMDb) for searching link on movies and TV shows. Return to user a summary of the film, poster,
