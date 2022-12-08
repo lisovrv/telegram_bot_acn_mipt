@@ -1,5 +1,7 @@
 ## Strart session
 
+This project has two types of network communication by means of http. Firstly, it has requests from user of bot to server, where database with bot-history located. Secondly, there are requests from server to "themovedb.org" server to find info about film.
+
 To start a bot session, you have to get BOT_TOKEN for your telegram_bot and API_KEY from The Movie Database (TMDb).
 
 
